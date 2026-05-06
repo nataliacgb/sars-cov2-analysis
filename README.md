@@ -28,9 +28,9 @@ This project presents an integrated analysis of genomic and structural data from
 - Structural features of Spike explain its high infectivity and immune interaction
 
 ## 💡 Applications
-- Vaccine and antibody development targeting Spike protein
+- Vaccine and antibody development targeting the Spike protein
 - Identification of antiviral targets
-- Support for structural-based drug design
+- Support for structure-based drug design
 
 ## 🧠 Skills Demonstrated
 - Genomic data interpretation (NCBI)
